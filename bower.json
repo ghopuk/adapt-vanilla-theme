@@ -1,0 +1,24 @@
+{
+  "name": "hoppa",
+  "version": "0.0.8",
+  "homepage": "https://github.com/darylhedley/adapt-contrib-vanilla",
+  "authors": [
+    "Paul Randle <paul.randle@grasshoppa.co.uk>"
+  ],
+  "displayName": "Hoppa",
+  "theme": "hoppa",
+  "description": "A core bundled theme",
+  "main": "js/vanilla.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

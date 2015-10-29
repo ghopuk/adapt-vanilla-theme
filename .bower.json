@@ -1,7 +1,7 @@
 {
   "name": "hoppa",
   "version": "0.0.8",
-  "homepage": "https://github.com/darylhedley/adapt-contrib-vanilla",
+  "homepage": "https://github.com/ghopuk/adapt-vanilla-theme.git",
   "authors": [
     "Paul Randle <paul.randle@grasshoppa.co.uk>"
   ],
@@ -27,7 +27,7 @@
     "tag": "v1.1.1",
     "commit": "0400eac79b96674884c79df9a76c0b55a894f6ee"
   },
-  "_source": "git://github.com/adaptlearning/adapt-contrib-vanilla.git",
+  "_source": "https://github.com/ghopuk/adapt-vanilla-theme.git",
   "_target": "~1.1.1",
   "_originalSource": "adapt-contrib-vanilla",
   "_direct": true
